@@ -10,7 +10,7 @@ export default class App extends React.Component {
     return (
       <View>
         <View style={styles.container}>
-          <Text>make an app that consumes the HST object here</Text>
+          <Text>make an app that consumes the Income Tax object here</Text>
         </View>
       </View>
     );

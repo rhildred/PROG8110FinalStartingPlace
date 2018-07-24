@@ -1,5 +1,11 @@
 You will write a tax app that calculates Ontario and Federal Tax. Please start with <a href="https://github.com/rhildred/PROG8110FinalStartingPlace" target="_blank">this github.</a>
 
+You will need to use these rules to calculate the tax:
+
+![Ontario Tax](https://rhildred.github.io/PROG8110Summer2018/July20FinalPractice/READMEImages/Ontario Tax Return.png "Ontario Tax")
+
+![Federal Tax](https://rhildred.github.io/PROG8110Summer2018/July20FinalPractice/READMEImages/Schedule1.png "Federal Tax")
+
 Marking
 -----
 

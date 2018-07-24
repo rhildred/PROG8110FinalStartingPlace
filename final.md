@@ -2,7 +2,7 @@ You will write a tax app that calculates Ontario and Federal Tax. Please start w
 
 You will need to use these rules to calculate the tax:
 
-![Ontario Tax](https://rhildred.github.io/PROG8110Summer2018/July20FinalPractice/READMEImages/Ontario Tax Return.png "Ontario Tax")
+![Ontario Tax](https://rhildred.github.io/PROG8110Summer2018/July20FinalPractice/READMEImages/OntarioTaxReturn.png "Ontario Tax")
 
 ![Federal Tax](https://rhildred.github.io/PROG8110Summer2018/July20FinalPractice/READMEImages/Schedule1.png "Federal Tax")
 

@@ -6,6 +6,10 @@ You will need to use these rules to calculate the tax:
 
 ![Federal Tax](https://rhildred.github.io/PROG8110FinalStartingPlace/READMEImages/Schedule1.png "Federal Tax")
 
+The user interface for caklculating tax requires these elements:
+
+![User Interface](https://rhildred.github.io/PROG8110FinalStartingPlace/READMEImages/taxprogram.jpg "User Interface")
+
 Marking
 -----
 

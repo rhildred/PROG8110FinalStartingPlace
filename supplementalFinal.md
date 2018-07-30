@@ -25,4 +25,4 @@ Marking
 
 *Note: The maximum is 100%. The items add up to 120 so that you don't have to get them all to do well.
 
-The tax project is due as a zip of your project in the assignments folder by noon on Tuesday.
+The Quebec tax project is due as a zip of your project in the assignments folder by midnight on Tuesday. A 0 mark will be awarded if your project is more than 90% similar to someone else's so work on this on your own. Your mark on this will be used instead of your midterm mark.

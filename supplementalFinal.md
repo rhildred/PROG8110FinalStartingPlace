@@ -5,7 +5,7 @@ You will need to use these rules to calculate the tax:
 ![Quebec Tax](https://rhildred.github.io/PROG8110FinalStartingPlace/READMEImages/QuebecTaxForm.png "Quebec Tax")
 
 
-The user interface for caklculating tax requires these elements:
+The user interface for calculating tax requires these elements:
 
 ![User Interface](https://rhildred.github.io/PROG8110FinalStartingPlace/READMEImages/TaxCalculator.png "User Interface")
 
